@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wapp.topserve",
+    "sha256_cert_fingerprints":
+    ["FF:98:04:F9:E2:2A:EC:7C:41:FF:49:03:53:BC:E5:90:D3:5C:AD:B3:DD:01:E3:5E:A1:B7:04:42:B8:91:21:61"]
+  }
+}]
